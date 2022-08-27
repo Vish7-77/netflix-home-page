@@ -44,8 +44,8 @@ function Home() {
     <>
     <section className="home">
       <div className="banner" style={{background:pop[0]?`url(${`${imgUrl}/${pop[0].poster_path}`})`:"nooe"}}>
-<h1> {pop[0].title}</h1>
-<p> {pop[0].overview}</p>
+<h1>Prey </h1>
+<p>When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal </p>
 <div className="but">
 <button> <BiPlay/>Play</button>
 <button>My List<AiOutlinePlus/></button>
